@@ -1230,7 +1230,7 @@
 }
 #Header_wrapper,
 #Intro {
-  background-color: #151617;
+  background-color: #081a38;
 }
 #Subheader {
   background-color: rgba(247, 247, 247, 1);
@@ -1240,20 +1240,20 @@
 .header-plain #Action_bar,
 .header-split #Action_bar,
 .header-stack #Action_bar {
-  background-color: #292b33;
+  background-color: #081a38;
 }
 #Sliding-top {
-  background-color: #151617;
+  background-color: #081a38;
 }
 #Sliding-top a.sliding-top-control {
-  border-right-color: #151617;
+  border-right-color: #081a38;
 }
 #Sliding-top.st-center a.sliding-top-control,
 #Sliding-top.st-left a.sliding-top-control {
-  border-top-color: #151617;
+  border-top-color: #081a38;
 }
 #Footer {
-  background-color: #151617;
+  background-color: #081a38;
 }
 body,
 ul.timeline_items,
@@ -1432,13 +1432,13 @@ h4 a:hover,
 h5,
 h5 a,
 h5 a:hover {
-  color: #9d9da1;
+  color: #ffffff;
 }
 h6,
 h6 a,
 h6 a:hover,
 a.content_link .title {
-  color: #9d9da1;
+  color: #ffffff;
 }
 .dropcap,
 .highlight:not(.highlight_image) {
@@ -1617,11 +1617,11 @@ a.mfn-link-6:before {
 #Header_creative,
 #Top_bar #menu,
 .sticky-tb-color #Top_bar.is-sticky {
-  background-color: #151617;
+  background-color: #081a38;
 }
 #Top_bar .wpml-languages a.active,
 #Top_bar .wpml-languages ul.wpml-lang-dropdown {
-  background-color: #151617;
+  background-color: #081a38;
 }
 #Top_bar .top_bar_right:before {
   background-color: #e3e3e3;
@@ -1766,7 +1766,7 @@ a.mfn-link-6:before {
 #Header_creative .creative-menu-toggle,
 #Header_creative .responsive-menu-toggle {
   color: #ffffff;
-  background: #4b4b54;
+  background: #3a4862;
 }
 #Side_slide {
   background-color: #191919;
@@ -2131,7 +2131,7 @@ textarea:focus {
 }
 @media only screen and (max-width: 767px) {
   #Top_bar {
-    background: #151617 !important;
+    background: #081a38 !important;
   }
   #Action_bar {
     background: #ffffff !important;
@@ -2155,11 +2155,11 @@ textarea:focus {
   }
 }
 html {
-  background-color: #151617;
+  background-color: #081a38;
 }
 #Wrapper,
 #Content {
-  background-color: #151617;
+  background-color: #081a38;
 }
 body,
 button,
